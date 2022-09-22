@@ -1,0 +1,21 @@
+p
+{
+    margin-left: 3cm;
+    margin-right: 3cm;
+    text-align:left;
+};
+
+IMG.displayed {
+    margin-left: 10cm;
+}
+li
+{
+    margin-left: 7cm;
+    margin-bottom: 0.5cm;
+}
+
+div.wow
+{
+    font-size: large;
+    font-style: italic;
+}

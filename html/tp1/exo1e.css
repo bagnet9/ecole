@@ -1,0 +1,32 @@
+div.wow
+{
+    font-size: large;
+    font-style: italic;
+}
+table
+{
+    margin-left: 5cm;
+}
+table,
+td {
+    border: 1px solid #333;
+}
+th {
+    border: 1px solid #333;
+}
+
+tbody
+{
+    background-color: aquamarine;
+}
+tfoot
+{
+    background-color: yellow;
+}
+body,
+p
+{
+    margin-left: 3cm;
+    margin-right: 3cm;
+    text-align:justify;
+};
